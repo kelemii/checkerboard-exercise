@@ -2,7 +2,7 @@
 var container = document.createElement('div');
 document.body.append(container);
 
-    for (var i=0;i<81;i++){
+    for (var i=0;i<45;i++){
         if (i % 2 === 0) {
                 var div = document.createElement('div');
                 div.style.width = '11.1%';
